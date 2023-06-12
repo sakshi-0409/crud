@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 80%;
+}
+.navItem:hover{
+color: red;
+}
+.input:hover{
+border: 2px solid gray;
+}
+#myTable{
+    background-color: rgba(194, 193, 193, 0.685);
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+.btn:hover{
+    color: gray;
+    border: 1px solid white;
+}
